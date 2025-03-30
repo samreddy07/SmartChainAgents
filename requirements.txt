@@ -1,12 +1,12 @@
 langchain
 langgraph
 cassio
-langchain_community
+langchain-community
 tiktoken
 langchain-groq
 langchainhub
 chromadb
-langchain_huggingface
+langchain-huggingface
 arxiv
 wikipedia
 python-dotenv
