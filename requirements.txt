@@ -11,3 +11,4 @@ arxiv
 wikipedia
 python-dotenv
 ipython
+streamlit
